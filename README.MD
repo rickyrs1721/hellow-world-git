@@ -34,7 +34,49 @@ UnderLine 2
 - [Esto es un link en markdown](https://www.google.com)
 - [Esto es un link al index](index.html)
 
-#Imagenes
-![Logo Git Hub](https://www.pngegg.com/es/png-sxwft)
+# Imagenes
+![Logo Git Hub](https://www.pinterest.es/pin/800233427519299051/)
+
+# Code Snippets
+Código en JSON
+```JSON
+[
+  {
+    "title": "apples",
+    "count": [12000, 20000],
+    "description": {"text": "...", "sensitive": false}
+  },
+  {
+    "title": "oranges",
+    "count": [17500, null],
+    "description": {"text": "...", "sensitive": false}
+  }
+]
+```
+
+Código en Javascript
+```Javascript
+function $initHighlight(block, cls) {
+  try {
+    if (cls.search(/\bno\-highlight\b/) != -1)
+      return process(block, true, 0x0F) +
+             ` class="${cls}"`;
+  } catch (e) {
+    /* handle exception */
+  }
+  for (var i = 0 / 2; i < classes.length; i++) {
+    if (checkCondition(classes[i]) === undefined)
+      console.log('undefined');
+  }
+
+  return (
+    <div>
+      <web-component>{block}</web-component>
+    </div>
+  )
+}
+
+export  $initHighlight;
+````
 
 
