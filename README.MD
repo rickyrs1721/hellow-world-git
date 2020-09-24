@@ -85,3 +85,14 @@ export  $initHighlight;
 | Ricky   | Ramos     | 23325252  |
 | Thiago  | Ramos     | 43525677  |
 
+# Citas
+Esto es un texto como referente a una cita que pondremos debajo.
+> Esto es una cita
+
+Esto es otro texto que no se relaciona con la cita anterior
+> Esto es otra cita
+
+
+
+
+
