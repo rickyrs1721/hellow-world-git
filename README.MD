@@ -21,7 +21,7 @@ UnderLine 2
 - formato ~~tachado~~, formato normal
 - aquí podemos usar *formato italico*, también **bold** y ~~tachado~~.
 
-#Listas
+# Listas
 1. Esto es un item de lista ordenada
 2. Esto es un item de lista ordenada
 3. Esto es un item de lista ordenada
@@ -29,6 +29,9 @@ UnderLine 2
 - Esto es un item de una lista desordenada
 - Esto es un item de una lista desordenada
 
-
+# Links
+<a href="https://www.google.com">Esto es un link HTML</a>
+[Esto es un link en markdown](https://www.google.com)
+[Esto es un link al index](index.html)
 
 
